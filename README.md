@@ -165,7 +165,7 @@ Who is simplify this, we are using the very simple concepts like Decision Tree, 
 4.1GitHub Link: https:https://github.com/venky87999/Forecasting_of_Smart_City_Traffic_System_SunkayyagariVenkatesh_USC_UCT
 
 
-4.2Report submission (GitHub link): https://github.com/venky87999/Forecasting_of_Smart_City_Traffic_System_SunkayyagariVenkatesh_USC_UCT
+4.2Report submission (GitHub link): https://github.com/venky87999/Forecasting_of_Smart_City_Traffic_System_SunkayyagariVenkatesh_USC_UCT/blob/main/README.md
 
 4.3 Google Colab Link: https://colab.research.google.com/drive/1rv2gkaamOsAwmTNMIJkH_ywcG3J7NL49
 
