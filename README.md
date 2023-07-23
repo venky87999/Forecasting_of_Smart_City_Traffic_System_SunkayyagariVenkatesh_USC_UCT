@@ -162,12 +162,12 @@ Matplotlib	Across play the song, database relation and graphical plotting librar
 By looking above summary, they used TFPC, ODT, NN concepts which are complex to learn and understand, 
 Who is simplify this, we are using the very simple concepts like Decision Tree, Pandas, NumPy, Matplotlib, Sklearn. Accordingly, we will be developing a module such that according to the timestamp we will classifies, the number of vehicles passing through the junction point.
 
-4.1GitHub Link: https://github.com/venky87999/Smarttrafficcity/blob/main/smart_traffic_city.ipynb?short_path=f4429d1
+4.1GitHub Link: https:https://github.com/venky87999/Forecasting_of_Smart_City_Traffic_System_SunkayyagariVenkatesh_USC_UCT
 
 
-4.2Report submission (GitHub link): https://github.com/venky87999/Smarttrafficcity
+4.2Report submission (GitHub link): https://github.com/venky87999/Forecasting_of_Smart_City_Traffic_System_SunkayyagariVenkatesh_USC_UCT
 
-4.3 Google Colab Link: https://colab.research.google.com/gist/venky87999/fdda6b3f7b6f8d7151c75b61aab7e7f2/smart-traffic-city.ipynb
+4.3 Google Colab Link: https://colab.research.google.com/drive/1rv2gkaamOsAwmTNMIJkH_ywcG3J7NL49
 
 
 
